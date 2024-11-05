@@ -1,0 +1,11 @@
+.container {
+  width: 300px;
+  padding: 16px;
+}
+
+button {
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+  cursor: pointer;
+}
